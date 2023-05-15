@@ -1,6 +1,6 @@
 [![hacs_badge](https://img.shields.io/badge/HACS-Default-orange.svg)](https://github.com/custom-components/hacs)
 
-# Ecowitt Weather Station integration for home-assistant
+# Ecowitt Weather Station integration for home-assistant (larserhardsen fork)
 Ecowitt driver for homeassistant
 
 ![Bling](https://raw.githubusercontent.com/garbled1/homeassistant_ecowitt/master/md.images/overview.png)
